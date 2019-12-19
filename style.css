@@ -1,0 +1,16 @@
+h1 {
+    color: darkorange;
+}
+
+.container {
+    width: 50rem;
+    margin: 10% auto;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
